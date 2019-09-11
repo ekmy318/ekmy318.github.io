@@ -60,6 +60,14 @@ mark {
 	color: inherit;
 }
 
+i {
+  font-size: 3rem;
+}
+
+.single-portfolio {
+  margin-bottom: 1rem;
+}
+
 input::-moz-focus-inner {
 	border: 0;
 	padding: 0;
